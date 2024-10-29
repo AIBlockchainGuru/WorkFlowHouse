@@ -1,11 +1,5 @@
 # 🏃‍♀️Runhouse🏠
 
-[![Discord](https://dcbadge.vercel.app/api/server/RnhB6589Hs?compact=true&style=flat)](https://discord.gg/RnhB6589Hs)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/runhouse_.svg?style=social&label=@runhouse_)](https://twitter.com/runhouse_)
-[![Website](https://img.shields.io/badge/run.house-green)](https://www.run.house)
-[![Docs](https://img.shields.io/badge/docs-blue)](https://www.run.house/docs)
-[![Den](https://img.shields.io/badge/runhouse_den-purple)](https://www.run.house/login)
-
 ## 👵 Welcome Home!
 
 Runhouse is the fastest way to build, run, and deploy production-quality AI apps and workflows on your own compute.
@@ -108,28 +102,3 @@ Please reach out (first name at run.house) if you don't see your favorite comput
   - Lambda Labs - **Supported**
   - Modal Labs - Planned
   - Slurm - Exploratory
-
-## 👨‍🏫 Learn More
-
-[**🐣 Getting Started**](https://www.run.house/docs/tutorials/cloud_quick_start): Installation, setup, and a quick walkthrough.
-
-[**📖 Docs**](https://www.run.house/docs):
-Detailed API references, basic API examples and walkthroughs, end-to-end tutorials, and high-level architecture overview.
-
-[**🎪 Funhouse**](https://github.com/run-house/funhouse): Standalone ML apps and examples to try with Runhouse, like image generation models, LLMs,
-launching Gradio spaces, and more!
-
-[**👩‍💻 Blog**](https://www.run.house/blog): Deep dives into Runhouse features, use cases, and the future of AI
-infra.
-
-[**👾 Discord**](https://discord.gg/RnhB6589Hs): Join our community to ask questions, share ideas, and get help.
-
-[**𝑋 Twitter**](https://twitter.com/runhouse_): Follow us for updates and announcements.
-
-## 🙋‍♂️ Getting Help
-
-Message us on [Discord](https://discord.gg/RnhB6589Hs), email us (first name at run.house), or create an issue.
-
-## 👷‍♀️ Contributing
-
-We welcome contributions! Please check out [contributing](CONTRIBUTING.md) if you're interested.
